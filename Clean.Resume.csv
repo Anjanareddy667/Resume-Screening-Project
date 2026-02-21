@@ -1,0 +1,21 @@
+Name,Email,Skills,Category
+John Doe,john@mail,"Python, ML, SQL",ML
+Jane Smith,jane@mail,"Data Analysis, Excel", Data
+Alice Johnson,alice@mail,"Java, SQL", Java
+Bob Brown,bob@mail,"Python, Django", ML
+Anjana,anu@mail,"Python, ML", ML
+Teju,tej@mail,"Cybersecurity, SQL", Cybersecurity
+Faruk,far@mail,"Excel", Data
+Srichala,sri@mail,"Data Analysis", Data
+Ram,ra@mail,"Machine Learning", ML
+Bhaskar,bhas@mail,"Java", Java
+Kiran,kir@mail,"Python, SQL", ML
+Deepa,deep@mail,"Data Cleaning, Excel", Data
+Vikram,vik@mail,"Java, Spring", Java
+Nisha,nish@mail,"Python, Django", ML
+Arjun,arj@mail,"Cybersecurity, Network Security", Cybersecurity
+Priya,pri@mail,"Excel, Data Analysis", Data
+Suman,sum@mail,"Java, Hibernate", Java
+Ravi,rav@mail,"Machine Learning, Python", ML
+Shreya,shr@mail,"Cybersecurity, SQL", Cybersecurity
+Neha,neh@mail,"Data Analysis, SQL", Data
